@@ -35,9 +35,8 @@ Sistema bancário desenvolvido em Python utilizando PyQt6 para a interface gráf
 - Python 3.12 ou superior instalado
 - Biblioteca PyQt6 e SQLite3
 
-![Tela de Login](https://github.com/rhuanvictor/Sistema-Bancario/blob/main/Sistema%20Bancario/login.jpg?raw=true), ![Banco](https://github.com/rhuanvictor/Sistema-Bancario/blob/main/Sistema%20Bancario/banco.jpg?raw=true) 
-
-
+![Tela de Login](https://github.com/rhuanvictor/Sistema_Bancario/blob/main/Sistema%20Bancario/telaLogin.jpg?raw=true), ![Banco](https://github.com/rhuanvictor/Sistema_Bancario/blob/main/Sistema%20Bancario/telaBanco.jpg?raw=true),
+![Cadastro de Conta](https://github.com/rhuanvictor/Sistema_Bancario/blob/main/Sistema%20Bancario/cadastroConta.jpg?raw=true) 
 
 
 
